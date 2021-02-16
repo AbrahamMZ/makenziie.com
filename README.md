@@ -1,1 +1,1 @@
-# [Makenziie](https://www.makenziie.com/)
+# [Makenziie](https://makenziie.com/)
