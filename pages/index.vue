@@ -26,16 +26,16 @@ export default {
     "call-to-action": CallToAction,
   },
   mounted() {
-  //   this.$swal({
-  //     title: "A todos nuestro clientes y proveedores",
-  //     html:
-  //       "Les agradecemos por contar siempre con su preferencia y confianza, no nos despedimos si no todo lo contrario, les anunciamos una gran fusión que nos incorporaremos con <br><b>G Integral Bajío</b> a partir del 01 de junio de 2021, con el objetivo de brindarles como siempre el mejor servicio y profesionalismo.<br> ¡ Gracias totales !",
-  //     imageUrl: logo,
-  //     imageWidth: 200,
-  //     imageHeight: 200,
-  //     imageAlt: "makenzie_alt",
-  //     width: 600,
-  //   });
+    this.$swal({
+      title: "A todos nuestro clientes y proveedores",
+      html:
+        "Les agradecemos por contar siempre con su preferencia y confianza, no nos despedimos si no todo lo contrario, les anunciamos una gran fusión que nos incorporaremos con <br><b>G Integral Bajío</b> a partir del 01 de junio de 2021, con el objetivo de brindarles como siempre el mejor servicio y profesionalismo.<br> ¡ Gracias totales !",
+      imageUrl: logo,
+      imageWidth: 200,
+      imageHeight: 200,
+      imageAlt: "makenzie_alt",
+      width: 600,
+    });
   },
 };
 </script>
