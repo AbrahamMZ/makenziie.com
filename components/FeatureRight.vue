@@ -8,7 +8,7 @@
         {{ content }}
       </p>
     </div>
-    <div class="w-full sm:w-1/2 p-6">
+    <div class="w-full sm:w-1/2 p-6 text-center">
       <slot name="svg" />
     </div>
   </div>
